@@ -11,7 +11,7 @@ namespace Program1
     {
         static void Main(string[] args)
         {
-            CreateQuestion("Last Names");
+            CreateQuestion("Last Name");
             string last = Console.ReadLine();
 
             CreateQuestion("First Name");
